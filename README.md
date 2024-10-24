@@ -5,7 +5,7 @@ If a coffee cup is detected on the user's desk or in their hands using YOLO tech
 ## Features
 
 - **Face Recognition**: Utilizes dlib and machine learning to accurately recognize the user's face, greeting them with a personalized morning message along with the current date, time, and weather information.
-- **Coffee Cup Detection**: Identifies if a coffee cup is present on the user's desk in their hands using YOLO (You Only Look Once) object detection.
+- **Coffee Cup Detection**: Identifies if a coffee cup is present on the user's desk or in their hands using YOLO (You Only Look Once) object detection.
 - **Daily Agenda Creation**: Takes voice commands from the user and saves them to a .txt file.
 - **Weather Information**: Displays current weather data, including temperature and conditions.
 - **News Headlines**: Asks the user if they want to hear the latest headlines, reading them aloud if the user agrees.
