@@ -54,9 +54,11 @@ To set up the application, follow these steps:
    git clone https://github.com/ibrk92/faceObjectDetection.git
    cd faceObjectDetection
 2. **Install Requirements**:
+   ```bash
    pip install -r requirements.txt
    
-3. **Run the Application**
+4. **Run the Application**
+   ```bash
    python main.py
 
 ### Note
