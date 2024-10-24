@@ -46,6 +46,17 @@ This application is built using the following technologies:
 - Requests: To make API calls for weather and news
 - Numpy: For numerical operations
 
+### Download Model Files
+
+#### Dlib Model Files:
+- `dlib_face_recognition_resnet_model_v1.dat`
+- `shape_predictor_68_face_landmarks.dat`
+
+#### YOLO Model Files:
+- `yolov4.weights`
+- `yolov4.cfg`
+- `coco.names`
+
 ### Steps
 To set up the application, follow these steps:
 
