@@ -1,0 +1,8 @@
+Python (version 3.6 or higher)
+OpenCV: For image processing
+Dlib: For face recognition capabilities
+YOLO (You Only Look Once): For real-time object detection
+Pyttsx3: For text-to-speech capabilities
+SpeechRecognition: For voice command recognition
+Requests: To make API calls for weather and news
+Numpy: For numerical operations
